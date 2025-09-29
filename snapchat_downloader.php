@@ -140,7 +140,7 @@ if (isset($_GET['action']) && $_GET['action'] === 'stream') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Snapchat Downloader - PHP Test</title>
+    <title>Snapchat Downloadert</title>
     <style>
         body {
             font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
