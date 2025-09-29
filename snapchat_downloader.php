@@ -140,7 +140,7 @@ if (isset($_GET['action']) && $_GET['action'] === 'stream') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Snapchat Downloadert</title>
+    <title>Snapchat Story Downloader</title>
     <style>
         body {
             font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -273,7 +273,7 @@ if (isset($_GET['action']) && $_GET['action'] === 'stream') {
     </style>
 </head>
 <body>
-    <h1>📥 Snapchat Story Downloader - PHP Test</h1>
+    <h1>📥 Snapchat Story Downloader</h1>
     
     <input type="text" id="story_url" placeholder="Paste Snapchat Story URL..." />
     <br />
